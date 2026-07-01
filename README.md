@@ -1,3 +1,12 @@
+```
+        .        *          .        .    *
+    *        .          .        *
+         .    *    ✦        .         .
+   .            .        *       .        *
+        *   .          .    ✦        .
+              .    *        .    ✦
+```
+
 ### Hi, I'm Tomás
 
 I work on AI safety. Lately that's meant measuring how well LLMs follow instructions (otherwise, I think we could, eventually, die).
