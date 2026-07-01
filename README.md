@@ -8,7 +8,7 @@
 ```
 
 ### [tkoren.com](https://tkoren.com)
-Currently doing independent AI Safety Research, applying to fellowships, so it goes.
+Currently doing independent AI Safety Research, applying to fellowships... So it goes.
 
 **Publications**
 
