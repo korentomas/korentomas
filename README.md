@@ -18,6 +18,6 @@ AI Safety Researcher & Bayesian Data Scientist
 More at [tkoren.com](https://tkoren.com). Feel free to send an email if you want to talk, I mean it.
 
 ```
-   /\   /\     /\   🌼   /\     /\    /\       /\   🌸    /\
-  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+       🌳                    🌲          🌳
+  ,,   ,  ,,,    ,  🌼   ,,     ,   ,,,,   ,    🌸  ,,   ,
 ```
