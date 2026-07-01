@@ -8,7 +8,7 @@
 ```
 
 ### [tkoren.com](https://tkoren.com)
-AI Safety Researcher & Bayesian Data Scientist
+Currently doing independent AI Safety Research, applying to fellowships, so it goes.
 
 **Publications**
 
